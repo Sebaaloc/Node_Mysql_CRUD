@@ -40,7 +40,7 @@
     "factory": "^1.0.3",
     "factory-girl": "^5.0.4",
     "girl": "^1.0.4",
-    "mocha": "^7.1.0",
+    "mocha": "^10.2.0",
     "nodemon": "^2.0.2",
     "prettier": "^1.19.1",
     "win-node-env": "^0.4.0"
